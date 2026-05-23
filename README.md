@@ -31,6 +31,17 @@ Weather forecasting project using Python APIs.
 
 ---
 
+## 🏆 Certifications
+
+- MongoDB Certified Associate Developer
+  
+- Oracle Certified Associate Java SE
+  
+- Wipro TalentNext Java Full Stack
+
+---
+
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/esaiprakashreddy
 - GitHub: github.com/prakashsai1
+- Email: saiprakashreddye@gmail.com
