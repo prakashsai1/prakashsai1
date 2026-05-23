@@ -1,6 +1,6 @@
 # Hi 👋, I'm E Sai Prakash Reddy
 
-🎓 BTech CSE Student at KL University  
+🎓 BTech CSE Graduate from KL University
 💻 Python Developer | MERN Stack Developer | Data Science Enthusiast  
 
 ---
