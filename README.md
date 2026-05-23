@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm E Sai Prakash Reddy
 
-<!--
-**prakashsai1/prakashsai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student at KL University  
+💻 Python Developer | MERN Stack Developer | Data Science Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Java
+- MERN Stack
+- React.js
+- Node.js
+- MongoDB
+- Machine Learning
+- Data Analysis
+- SQL
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 SmartSpend MERN App
+Expense tracking application built using MongoDB, Express.js, React.js, and Node.js.
+
+### 🔹 Customer Churn Prediction
+Machine learning project for customer churn prediction using Python and ML techniques.
+
+### 🔹 Weather Report App
+Weather forecasting project using Python APIs.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/esaiprakashreddy
+- GitHub: github.com/prakashsai1
